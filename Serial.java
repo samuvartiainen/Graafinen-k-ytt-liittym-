@@ -1,5 +1,5 @@
 /*
- *  serial communication by ktmakva 24.1.2016
+ *  serial communication
  */
 package arduino;
 
